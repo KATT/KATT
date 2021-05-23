@@ -1,8 +1,4 @@
-### Hi there 👋
-
-I'm Alex and I've been paid to code for a bit more than 15 years now. 
-
-Currently cto & co-founder of a little startup in Sweden called [TradeBay](https://tradebay.co/) and spend a lot my spare time hacking on an open-source library called [tRPC](https://github.com/trpc/trpc).
+### Hi there! 😻
 
 <!--
 **KATT/KATT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
