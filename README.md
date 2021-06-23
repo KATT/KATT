@@ -1,5 +1,7 @@
 ### Hi there! 😻
 
+Check out [tRPC](https://github.com/trpc/trpc) - it's pretty cool.
+
 <!--
 **KATT/KATT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
