@@ -1,8 +1,7 @@
 ### Hi there! 😻
 
-I am a fully-stacked TypeScript consultant & the main guy behind [**tRPC**](https://trpc.io).
-<!-- 
-Got in to programming by making websites in the late 90s and started [a company selling Counter-Strike servers](https://web.archive.org/web/20061112194431/http://www.ociusservers.com/) at 16.
+I am Alex, a fully-stacked TypeScript consultant from Sweden & the main guy behind [**tRPC**](https://trpc.io).
 
-I was one of the founding engineers at [dice.fm](https://dice.fm) back in 2014, leading all the web dev etc - since leaving that I’ve been doing contracting & yesterday I just left my own VC-funded startup here in Stockholm where I was the co-founding house geek/CTO.
- -->
+Been doing html since the late 90s, started [a company selling Counter-Strike servers](https://web.archive.org/web/20061112194431/http://www.ociusservers.com/) & got my first official coding job in 2009. Since then, I have been on 5 continents, lived/worked on 3, and worked for everything from sub 5 people startups to big banks.
+
+From Sweden, living in Stockholm. Speak Swedish, English and rusty (Brazilian) Portuguese + Spanish.
