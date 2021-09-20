@@ -2,7 +2,7 @@
 
 I am Alex, a fully-stacked TypeScript consultant from Sweden & the main guy behind [**tRPC**](https://trpc.io).
 
-Been doing html since the late 90s, started [a company](https://web.archive.org/web/20061112194431/http://www.ociusservers.com/) in 2016 selling Counter-Strike servers & got my first official coding job in 2009. Since then, I have been on 5 continents, lived/worked on 3, and worked for everything from sub 5 people startups to big banks - as a consultant, employee, and founder.
+Been doing html since the late 90s, started [a company](https://web.archive.org/web/20061112194431/http://www.ociusservers.com/) in 2006 selling Counter-Strike servers & got my first official coding job in 2009. Since then, I have been on 5 continents, lived/worked on 3, and worked for everything from sub 5 people startups to big banks - as a consultant, employee, and founder.
 
 From Sweden, living in Stockholm. Speak Swedish, English and rusty (Brazilian) Portuguese + Spanish.
 
